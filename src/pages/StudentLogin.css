@@ -1,0 +1,34 @@
+.student-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #f4f4f4;
+  }
+  
+  .student-login h2 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+  }
+  
+  .student-login input {
+    width: 300px;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .student-login button {
+    width: 300px;
+    padding: 0.5rem;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .student-login a {
+    margin-top: 1rem;
+    color: #007bff;
+  }
